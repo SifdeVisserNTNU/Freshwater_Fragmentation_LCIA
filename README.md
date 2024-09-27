@@ -13,4 +13,5 @@ The following files can be found in this repository (src folder):
 The input data can partially be found in the data folder. Other data needs to be downloaded from other sources.
 - Download the GDAT shapefiles from Zhang, A.T., Gu, V.X., 2023. Global Dam Tracker: A database of more than 35,000 dams with location, catchment, and attribute information. Sci. Data 10, 111. https://doi.org/10.1038/s41597-023-02008-2 
 - Download the irrigation blue water consumption data from Mialyk, O., Schyns, J.F., Booij, M.J., Su, H., Hogeboom, R.J., Berger, M., 2024. Water footprints and crop water use of 175 individual crops for 1990–2019 simulated with a global crop model. Sci. Data 11, 206. https://doi.org/10.1038/s41597-024-03051-3
- Some files cannot be uploaded due to size. Contact the author (sif.de.visser@ntnu.no) to request for files.
+
+Some files cannot be uploaded due to size. Contact the author (sif.de.visser@ntnu.no) to request for files.
